@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Shake It To The Max (FLY) [Remix]",
+  "base_artist": "MOLIY, Silent Addy, Skillibeng, & Shenseea",
+  "createdAt": "2026-04-05T18:52:38.805981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) [Remix]",
+      "artist": "MOLIY",
+      "has_synced": true,
+      "path": "select/01_Shake_It_To_The_Max_(FLY)_[Remix]_MOLIY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) [Remix]",
+      "artist": "Shenseea",
+      "has_synced": true,
+      "path": "select/02_Shake_It_To_The_Max_(FLY)_[Remix]_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) [Remix]",
+      "artist": "Moliy, Silent Addy, Skillibeng & Shenseea",
+      "has_synced": true,
+      "path": "select/03_Shake_It_To_The_Max_(FLY)_[Remix]_Moliy,_Silent_Addy,_Skillibeng_&_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake It to the Max (FLY) - (remix)",
+      "artist": "Moliy, Silent Addy, Skillibeng, Shenseea",
+      "has_synced": true,
+      "path": "select/04_Shake_It_to_the_Max_(FLY)_-_(remix)_Moliy,_Silent_Addy,_Skillibeng,_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake It to the Max (FLY) - (remix)",
+      "artist": "Moliy, Silent Addy, Skillibeng & Shenseea",
+      "has_synced": true,
+      "path": "select/05_Shake_It_to_the_Max_(FLY)_-_(remix)_Moliy,_Silent_Addy,_Skillibeng_&_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) [Remix]",
+      "artist": "Moliy, Silent Addy, Skillibeng, Shenseea",
+      "has_synced": true,
+      "path": "select/06_Shake_It_To_The_Max_(FLY)_[Remix]_Moliy,_Silent_Addy,_Skillibeng,_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shake It to the Max (FLY) (remix)",
+      "artist": "Moliy, Silent Addy, Skillibeng, Shenseea",
+      "has_synced": true,
+      "path": "select/07_Shake_It_to_the_Max_(FLY)_(remix)_Moliy,_Silent_Addy,_Skillibeng,_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shake It to the Max (FLY) (remix)",
+      "artist": "Moliy • Silent Addy • Skillibeng • Shenseea",
+      "has_synced": true,
+      "path": "select/08_Shake_It_to_the_Max_(FLY)_(remix)_Moliy_•_Silent_Addy_•_Skillibeng_•_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) - Remix",
+      "artist": "MOLIY",
+      "has_synced": true,
+      "path": "select/09_Shake_It_To_The_Max_(FLY)_-_Remix_MOLIY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake It To The Max (FLY) - Remix",
+      "artist": "MOLIY/Silent Addy/Skillibeng/Shenseea",
+      "has_synced": true,
+      "path": "select/10_Shake_It_To_The_Max_(FLY)_-_Remix_MOLIY_Silent_Addy_Skillibeng_Shenseea.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shake It to the Max (FLY) (remix)",
+      "artist": "Moliy,Silent Addy,Skillibeng,Shenseea",
+      "has_synced": true,
+      "path": "select/11_Shake_It_to_the_Max_(FLY)_(remix)_Moliy,Silent_Addy,Skillibeng,Shenseea.lrc"
+    }
+  ]
+}
